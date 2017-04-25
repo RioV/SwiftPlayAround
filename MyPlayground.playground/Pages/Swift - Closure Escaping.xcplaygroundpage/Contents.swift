@@ -7,11 +7,7 @@ class Worker: NSObject {
     private let server: ServerConnection = ServerConnection()
     func getData(url: String, completion: @escaping (String?) -> ()) {
         print("Worker - getData")
-        server.getDataFromServer(url: url, completion: completion)
-        server.getDataFromServer(url: url, completion: completion)
-        server.getDataFromServer(url: url, completion: completion)
-        server.getDataFromServer(url: url, completion: completion)
-        server.getDataFromServer(url: url, completion: completion)
+        server.getDataFromServer(url: url, completion: completion)        
     }
 }
 

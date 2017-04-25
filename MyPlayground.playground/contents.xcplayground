@@ -6,5 +6,7 @@
         <page name='Swift - Closure vs Function'/>
         <page name='Swift - Closure Capture Inside'/>
         <page name='Swift - Closure Escaping'/>
+        <page name='Swift - Class'/>
+        <page name='Swift - Struct'/>
     </pages>
 </playground>
