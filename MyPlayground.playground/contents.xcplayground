@@ -8,5 +8,6 @@
         <page name='Swift - Closure Escaping'/>
         <page name='Swift - Class'/>
         <page name='Swift - Struct'/>
+        <page name='Swift - HandyDrawy'/>
     </pages>
 </playground>
